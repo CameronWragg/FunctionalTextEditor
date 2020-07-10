@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/5205556/how-to-read-data-from-io-into-data-structure-and-then-process-the-data-structure
+
+https://stackoverflow.com/questions/12016407/haskell-io-couldnt-match-expected-type-io-a0-with-actual-type
+
+http://learnyouahaskell.com/input-and-output
+
+https://www.reddit.com/r/haskell/comments/2jdmdz/trying_to_understand_monad_transformers_state_in/
